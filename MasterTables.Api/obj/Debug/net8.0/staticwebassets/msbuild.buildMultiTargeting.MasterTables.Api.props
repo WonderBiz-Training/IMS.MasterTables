@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MasterTables.Api.props" />
+</Project>
