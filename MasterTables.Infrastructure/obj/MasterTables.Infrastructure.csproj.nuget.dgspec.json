@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Infrastructure\\MasterTables.Infrastructure.csproj": {}
+    "D:\\IMS\\IMS.MasterTables\\MasterTables.Infrastructure\\MasterTables.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj": {
+    "D:\\IMS\\IMS.MasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj",
+        "projectUniqueName": "D:\\IMS\\IMS.MasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj",
         "projectName": "MasterTables.Domain",
-        "projectPath": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj",
-        "packagesPath": "C:\\Users\\Karthik Balakrishan\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Domain\\obj\\",
+        "projectPath": "D:\\IMS\\IMS.MasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj",
+        "packagesPath": "C:\\Users\\Yash Harad\\.nuget\\packages\\",
+        "outputPath": "D:\\IMS\\IMS.MasterTables\\MasterTables.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Karthik Balakrishan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yash Harad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -81,24 +81,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Infrastructure\\MasterTables.Infrastructure.csproj": {
+    "D:\\IMS\\IMS.MasterTables\\MasterTables.Infrastructure\\MasterTables.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Infrastructure\\MasterTables.Infrastructure.csproj",
+        "projectUniqueName": "D:\\IMS\\IMS.MasterTables\\MasterTables.Infrastructure\\MasterTables.Infrastructure.csproj",
         "projectName": "MasterTables.Infrastructure",
-        "projectPath": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Infrastructure\\MasterTables.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Karthik Balakrishan\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Infrastructure\\obj\\",
+        "projectPath": "D:\\IMS\\IMS.MasterTables\\MasterTables.Infrastructure\\MasterTables.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Yash Harad\\.nuget\\packages\\",
+        "outputPath": "D:\\IMS\\IMS.MasterTables\\MasterTables.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Karthik Balakrishan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yash Harad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -114,8 +114,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj": {
-                "projectPath": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj"
+              "D:\\IMS\\IMS.MasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj": {
+                "projectPath": "D:\\IMS\\IMS.MasterTables\\MasterTables.Domain\\MasterTables.Domain.csproj"
               }
             }
           }
@@ -156,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
