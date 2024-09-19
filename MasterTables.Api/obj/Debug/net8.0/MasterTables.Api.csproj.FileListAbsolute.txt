@@ -147,3 +147,9 @@ E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\
 E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\obj\Debug\net8.0\MasterTables.Api.pdb
 E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\obj\Debug\net8.0\MasterTables.Api.genruntimeconfig.cache
 E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\obj\Debug\net8.0\ref\MasterTables.Api.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\bin\Debug\net8.0\Castle.Core.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\bin\Debug\net8.0\Moq.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\bin\Debug\net8.0\xunit.abstractions.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\bin\Debug\net8.0\xunit.assert.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\bin\Debug\net8.0\xunit.core.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Api\bin\Debug\net8.0\xunit.execution.dotnet.dll

@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2FDD16-D26B-479D-AD04-FB6BED1B240A}|MasterTables.Api\\MasterTables.Api.csproj|e:\\project\\vsproject\\inventorymanagementsystem\\imsmastertables\\mastertables.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2FDD16-D26B-479D-AD04-FB6BED1B240A}|MasterTables.Api\\MasterTables.Api.csproj|solutionrelative:mastertables.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2FDD16-D26B-479D-AD04-FB6BED1B240A}|MasterTables.Api\\MasterTables.Api.csproj|e:\\project\\vsproject\\inventorymanagementsystem\\imsmastertables\\mastertables.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2FDD16-D26B-479D-AD04-FB6BED1B240A}|MasterTables.Api\\MasterTables.Api.csproj|solutionrelative:mastertables.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2FDD16-D26B-479D-AD04-FB6BED1B240A}|MasterTables.Api\\MasterTables.Api.csproj|e:\\project\\vsproject\\inventorymanagementsystem\\imsmastertables\\mastertables.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2FDD16-D26B-479D-AD04-FB6BED1B240A}|MasterTables.Api\\MasterTables.Api.csproj|solutionrelative:mastertables.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|e:\\project\\vsproject\\inventorymanagementsystem\\imsmastertables\\mastertables.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|solutionrelative:mastertables.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MasterTables.Api\\Program.cs",
+              "ToolTip": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Api\\Program.cs",
+              "RelativeToolTip": "MasterTables.Api\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:11:45.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MasterTables.Application\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "MasterTables.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:00:21.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "MasterTables.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "MasterTables.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAvwCIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:29:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MasterTables.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MasterTables.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:10:19.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

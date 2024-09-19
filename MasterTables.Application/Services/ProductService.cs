@@ -39,7 +39,8 @@ namespace MasterTables.Application.Services
                 var result = await _mediator.Send(query, cancellationToken);
                 if (result == null)
                 {
-                    throw new ProductNotFoundException($"Product with ID {id} not found.");
+                    //throw new ProductNotFoundException($"Product with ID {id} not found.");
+                    throw new Exception("Test exception - Middleware error handling");
                 }
                 return result;
             }
@@ -49,7 +50,8 @@ namespace MasterTables.Application.Services
             }
             catch (Exception ex)
             {
-                throw new SomethingElseException(ex.Message);
+                //throw new SomethingElseException(ex.Message);
+                throw;
             }
         }
 

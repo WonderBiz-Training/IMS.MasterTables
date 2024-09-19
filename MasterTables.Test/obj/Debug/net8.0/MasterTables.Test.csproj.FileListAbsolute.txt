@@ -153,3 +153,12 @@ E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test
 E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\obj\Debug\net8.0\MasterTables.Test.pdb
 E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\obj\Debug\net8.0\MasterTables.Test.genruntimeconfig.cache
 E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\obj\Debug\net8.0\ref\MasterTables.Test.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\MasterTables.API.deps.json
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\MasterTables.API.runtimeconfig.json
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\appsettings.json
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\MasterTables.API.exe
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\MasterTables.API.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\MasterTables.Infrastructure.dll
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\MasterTables.API.pdb
+E:\Project\vsProject\InventoryManagementSystem\IMSMasterTables\MasterTables.Test\bin\Debug\net8.0\MasterTables.Infrastructure.pdb

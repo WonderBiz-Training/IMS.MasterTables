@@ -9,6 +9,7 @@ using MasterTables.Application.Commands;
 using FluentValidation.AspNetCore;
 using MasterTables.Application.Validators.CreateCommandValidator;
 using MasterTables.Application.Validators.UpdateCommandValidator;
+using MasterTables.Api.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -60,5 +61,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseMiddleware<ExceptionHandlingMiddleware>();
 
 await app.RunAsync();

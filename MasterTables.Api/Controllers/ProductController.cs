@@ -47,7 +47,8 @@ namespace MasterTables.Api.Controllers
             catch (Exception ex)
             {
                 // Log exception here
-                return StatusCode(StatusCodes.Status500InternalServerError, "An error occurred while retrieving the product.");
+                //return StatusCode(StatusCodes.Status500InternalServerError, "An error occurred while retrieving the product.");
+                throw;
             }
         }
 
