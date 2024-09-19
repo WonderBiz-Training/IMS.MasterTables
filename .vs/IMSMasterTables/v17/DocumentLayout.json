@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\",
   "Documents": [
     {
@@ -17,6 +18,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|e:\\project\\vsproject\\inventorymanagementsystem\\imsmastertables\\mastertables.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|solutionrelative:mastertables.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "D:\\IMS\\IMS.MasterTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F533E4F3-B30D-4F2B-B377-706365C91CA6}|MasterTables.Test\\MasterTables.Test.csproj|d:\\ims\\ims.mastertables\\mastertables.test\\locationtest\\getlocationbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F533E4F3-B30D-4F2B-B377-706365C91CA6}|MasterTables.Test\\MasterTables.Test.csproj|solutionrelative:mastertables.test\\locationtest\\getlocationbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|d:\\ims\\ims.mastertables\\mastertables.application\\queries\\getlocationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|solutionrelative:mastertables.application\\queries\\getlocationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|d:\\ims\\ims.mastertables\\mastertables.application\\queryhandlers\\getlocationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|solutionrelative:mastertables.application\\queryhandlers\\getlocationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 5287c1d20ff07ca3f6661de6912daa4e2e0c2a85
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> 5287c1d20ff07ca3f6661de6912daa4e2e0c2a85
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +58,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Api\\Program.cs",
@@ -71,11 +92,36 @@
               "ViewState": "AgIAABoAAAAAAAAAAAAvwCIAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T10:29:54.186Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "GetLocationByIdQueryHandlerTests.cs",
+              "DocumentMoniker": "D:\\IMS\\IMS.MasterTables\\MasterTables.Test\\LocationTest\\GetLocationByIdQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "MasterTables.Test\\LocationTest\\GetLocationByIdQueryHandlerTests.cs",
+              "ToolTip": "D:\\IMS\\IMS.MasterTables\\MasterTables.Test\\LocationTest\\GetLocationByIdQueryHandlerTests.cs",
+              "RelativeToolTip": "MasterTables.Test\\LocationTest\\GetLocationByIdQueryHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:36:26.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetLocationByIdQuery.cs",
+              "DocumentMoniker": "D:\\IMS\\IMS.MasterTables\\MasterTables.Application\\Queries\\GetLocationByIdQuery.cs",
+              "RelativeDocumentMoniker": "MasterTables.Application\\Queries\\GetLocationByIdQuery.cs",
+              "ToolTip": "D:\\IMS\\IMS.MasterTables\\MasterTables.Application\\Queries\\GetLocationByIdQuery.cs",
+              "RelativeToolTip": "MasterTables.Application\\Queries\\GetLocationByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:35:52.196Z",
+>>>>>>> 5287c1d20ff07ca3f6661de6912daa4e2e0c2a85
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\Project\\vsProject\\InventoryManagementSystem\\IMSMasterTables\\MasterTables.Api\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MasterTables.Api\\Controllers\\ProductController.cs",
@@ -84,6 +130,17 @@
               "ViewState": "AgIAACYAAAAAAAAAAADgvzIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T09:10:19.846Z"
+=======
+              "Title": "GetLocationByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\IMS\\IMS.MasterTables\\MasterTables.Application\\QueryHandlers\\GetLocationByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "MasterTables.Application\\QueryHandlers\\GetLocationByIdQueryHandler.cs",
+              "ToolTip": "D:\\IMS\\IMS.MasterTables\\MasterTables.Application\\QueryHandlers\\GetLocationByIdQueryHandler.cs",
+              "RelativeToolTip": "MasterTables.Application\\QueryHandlers\\GetLocationByIdQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:35:45.318Z",
+              "EditorCaption": ""
+>>>>>>> 5287c1d20ff07ca3f6661de6912daa4e2e0c2a85
             }
           ]
         }

@@ -23,7 +23,7 @@ builder.Services.AddAutoMapper(typeof(ProductMappingProfile));
 
 // DbContext configuration
 builder.Services.AddDbContext<MasterTablesDbContext>(options =>
-    options.UseSqlServer("Data Source=DESKTOP-49D7IT0\\MSSQLSERVER01;Initial Catalog=IMS_MasterTable;User ID=sa;Password=user@123;Trust Server Certificate=True", b => b.MigrationsAssembly("MasterTables.Api")));
+    options.UseSqlServer("Data Source=DESKTOP-0M9KT77\\SQLEXPRESS;Initial Catalog=IMS_MasterTable;User ID=sa;Password=user@123;Trust Server Certificate=True", b => b.MigrationsAssembly("MasterTables.Api")));
 
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(CreateCustomerCommand).Assembly));
 
@@ -41,10 +41,15 @@ builder.Services.AddScoped<ICustomerService, CustomerService>();
 builder.Services.AddScoped<ITaxRepository, TaxRepository>();
 builder.Services.AddScoped<ITaxService, TaxService>();
 
+builder.Services.AddScoped<ILocationRepository, LocationRepository>();
+builder.Services.AddScoped<ILocationService, LocationService>();
+
 // Controller services
 builder.Services.AddControllers()
     .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<CreateProductCommandValidator>())
-    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<UpdateProductCommandValidator>());
+    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<UpdateProductCommandValidator>())
+    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<CreateLocationCommandValidator>())
+    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<UpdateLocationCommandValidator>());
 
 // Enable Swagger
 builder.Services.AddEndpointsApiExplorer();
