@@ -79,6 +79,85 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MasterTables.Api.Controllers.LocationController",
+    "Method": "GetAllLocations",
+    "RelativePath": "api/Location",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MasterTables.Api.Controllers.LocationController",
+    "Method": "CreateLocation",
+    "RelativePath": "api/Location",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MasterTables.Application.Commands.CreateLocationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MasterTables.Api.Controllers.LocationController",
+    "Method": "GetLocationById",
+    "RelativePath": "api/Location/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MasterTables.Api.Controllers.LocationController",
+    "Method": "UpdateLocation",
+    "RelativePath": "api/Location/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "MasterTables.Application.Commands.UpdateLocationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MasterTables.Api.Controllers.LocationController",
+    "Method": "DeleteLocation",
+    "RelativePath": "api/Location/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MasterTables.Api.Controllers.ProductController",
     "Method": "GetAllProducts",
     "RelativePath": "api/Product",
