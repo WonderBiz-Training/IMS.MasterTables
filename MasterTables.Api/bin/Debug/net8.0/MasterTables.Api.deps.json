@@ -950,6 +950,12 @@
       "System.Text.Json/8.0.4": {
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/System.Text.Json.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.724.31311"
+          }
         }
       },
       "System.Threading.Channels/6.0.0": {},
@@ -985,10 +991,7 @@
           "Swashbuckle.AspNetCore": "6.7.3"
         },
         "runtime": {
-          "MasterTables.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MasterTables.Application.dll": {}
         }
       },
       "MasterTables.Domain/1.0.0": {
@@ -997,10 +1000,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
         },
         "runtime": {
-          "MasterTables.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MasterTables.Domain.dll": {}
         }
       },
       "MasterTables.Infrastructure/1.0.0": {
@@ -1009,10 +1009,7 @@
           "Microsoft.EntityFrameworkCore": "8.0.8"
         },
         "runtime": {
-          "MasterTables.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MasterTables.Infrastructure.dll": {}
         }
       }
     }

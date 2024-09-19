@@ -15,12 +15,15 @@ namespace MasterTables.Infrastructure.Data
 
         public DbSet<Tax> Taxes { get; set; }
 
+        public DbSet<Location> Locations { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Product>().HasKey(p => p.Id);
             modelBuilder.Entity<Vendor>().HasKey(p => p.Id);
             modelBuilder.Entity<Customer>().HasKey(p => p.Id);
             modelBuilder.Entity<Tax>().HasKey(p => p.Id);
+            modelBuilder.Entity<Location>().HasKey(p => p.Id);
             base.OnModelCreating(modelBuilder);
         }
     }

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IMS\\IMS.MasterTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F533E4F3-B30D-4F2B-B377-706365C91CA6}|MasterTables.Test\\MasterTables.Test.csproj|d:\\ims\\ims.mastertables\\mastertables.test\\locationtest\\getlocationbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F533E4F3-B30D-4F2B-B377-706365C91CA6}|MasterTables.Test\\MasterTables.Test.csproj|solutionrelative:mastertables.test\\locationtest\\getlocationbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|d:\\ims\\ims.mastertables\\mastertables.application\\queries\\getlocationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|solutionrelative:mastertables.application\\queries\\getlocationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|d:\\ims\\ims.mastertables\\mastertables.application\\queryhandlers\\getlocationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C394AAC-CB77-437F-AA62-7A281E7A98AF}|MasterTables.Application\\MasterTables.Application.csproj|solutionrelative:mastertables.application\\queryhandlers\\getlocationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetLocationByIdQueryHandlerTests.cs",
+              "DocumentMoniker": "D:\\IMS\\IMS.MasterTables\\MasterTables.Test\\LocationTest\\GetLocationByIdQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "MasterTables.Test\\LocationTest\\GetLocationByIdQueryHandlerTests.cs",
+              "ToolTip": "D:\\IMS\\IMS.MasterTables\\MasterTables.Test\\LocationTest\\GetLocationByIdQueryHandlerTests.cs",
+              "RelativeToolTip": "MasterTables.Test\\LocationTest\\GetLocationByIdQueryHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:36:26.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetLocationByIdQuery.cs",
+              "DocumentMoniker": "D:\\IMS\\IMS.MasterTables\\MasterTables.Application\\Queries\\GetLocationByIdQuery.cs",
+              "RelativeDocumentMoniker": "MasterTables.Application\\Queries\\GetLocationByIdQuery.cs",
+              "ToolTip": "D:\\IMS\\IMS.MasterTables\\MasterTables.Application\\Queries\\GetLocationByIdQuery.cs",
+              "RelativeToolTip": "MasterTables.Application\\Queries\\GetLocationByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:35:52.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetLocationByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\IMS\\IMS.MasterTables\\MasterTables.Application\\QueryHandlers\\GetLocationByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "MasterTables.Application\\QueryHandlers\\GetLocationByIdQueryHandler.cs",
+              "ToolTip": "D:\\IMS\\IMS.MasterTables\\MasterTables.Application\\QueryHandlers\\GetLocationByIdQueryHandler.cs",
+              "RelativeToolTip": "MasterTables.Application\\QueryHandlers\\GetLocationByIdQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:35:45.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
