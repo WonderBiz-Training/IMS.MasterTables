@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterTables.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086c7e9bad2a69347402c211b0602352c357a4aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+489f260260d95e23145eb1826e303bdbdbd94f4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterTables.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterTables.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
